@@ -15,3 +15,5 @@ Mousecontrole
 
 Use 'd' and 'e' to control the depth of the boids.
 If you are using mousecontrole you can not perform the gestures (speedUp, divide, explosion).
+
+If you like to, you can check out the promo video 'SWARM_PROMO.mov'. There you can see the program working when using a kinect.
